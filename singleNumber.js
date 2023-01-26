@@ -19,3 +19,5 @@ const s = (nums)=>{
     }
     return xor;
 }
+
+
